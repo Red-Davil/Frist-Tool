@@ -23,12 +23,12 @@
 
 2.  **Navigate to the script's directory:**
     ```bash
-    cd /path/to/your/script
+    pkg install python git -y
     ```
 
-3.  **Run the script:**
+3.  **Clone this repo:**
     ```bash
-    python main.py
+    git clone https://github.com/
     ```
 
 4.  **Follow the on-screen prompts:**
