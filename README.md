@@ -21,17 +21,25 @@
 
 1.  **Clone the repository (if applicable) or create the `main.py` file.**
 
-2.  **Navigate to the script's directory:**
-    ```bash
-    pkg install python git -y
-    ```
 
 3.  **Clone this repo:**
     ```bash
     git clone https://github.com/Red-Davil/Frist-Tool.git
     ```
+2.  **Install python and git:**
+    ```bash
+    pkg install python git -y
+    ```
 
-4.  **Follow the on-screen prompts:**
+3.  **Open Tool Folder:**
+    ```bash
+    cd Frist-Tool
+    ```
+4.  **Clone this repo:**
+    ```bash
+    python main.py
+    ```
+5.  **Follow the on-screen prompts:**
     -   Enter the target number (with country code).
     -   Enter the amount (number of SMS attempts).
 
