@@ -21,15 +21,15 @@
 
 
 
-2.  **Clone this repo:**
-    ```bash
-    git clone https://github.com/Red-Davil/Frist-Tool.git
-    ```
+
 1.  **Install python and git:**
     ```bash
     pkg install python git -y
     ```
-
+2.  **Clone this repo:**
+    ```bash
+    git clone https://github.com/Red-Davil/Frist-Tool.git
+    ```
 3.  **Open Tool Folder:**
     ```bash
     cd Frist-Tool
