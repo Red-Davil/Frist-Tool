@@ -35,7 +35,7 @@
     ```bash
     cd Frist-Tool
     ```
-4.  **Clone this repo:**
+4.  **Run Main Tool:**
     ```bash
     python main.py
     ```
@@ -44,7 +44,3 @@
     -   Enter the amount (number of SMS attempts).
 
 ---
-
-## 🔐 Example Output
-
-Here is what you can expect when running the script:
