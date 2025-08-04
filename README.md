@@ -28,7 +28,7 @@
 
 3.  **Clone this repo:**
     ```bash
-    git clone https://github.com/
+    git clone https://github.com/Red-Davil/Frist-Tool.git
     ```
 
 4.  **Follow the on-screen prompts:**
