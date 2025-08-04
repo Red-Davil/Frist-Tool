@@ -19,14 +19,13 @@
 
 ## ▶️ How to Run
 
-1.  **Clone the repository (if applicable) or create the `main.py` file.**
 
 
-3.  **Clone this repo:**
+2.  **Clone this repo:**
     ```bash
     git clone https://github.com/Red-Davil/Frist-Tool.git
     ```
-2.  **Install python and git:**
+1.  **Install python and git:**
     ```bash
     pkg install python git -y
     ```
